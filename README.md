@@ -23,7 +23,7 @@
 ## 🤔 How to Install
 
 - Clone this repository `https://github.com/rodrigomguerreiro/node-concepts.git`;
-- Navegue até o diretório: `cd node-concepts/...`;
+- Go to: `cd node-concepts/...`;
 - run: `yarn` to install dependencies;
 - run: `yarn test` to check validations;
 
